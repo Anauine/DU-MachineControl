@@ -6,7 +6,6 @@ MachineControl Instructions:
 1.Paste MachineControl.lua script to a programming board. 
 2.Link receiver note:"must be assigned to slot1."
 3.Link screen, and emitter to the programming board.
---
 
 MachineUpdateControl Instructions:
 1.Paste MachineControl.lua script to a programming board. 
