@@ -14,7 +14,7 @@
 - 4.Link up to 5 Machines to the programming board. 
 - 5.Repeat steps 1-4 if you want to manage 5 more machines.
 
-#R elay Instructions
+# Relay Instructions
 - 1.Link MachineControl PB, MachineUpdateControl PB, and presure tile pad to relay.
 
 # Screen Instructions:
