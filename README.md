@@ -12,7 +12,7 @@
 - 2.Link receiver note:"must be assigned to slot1."
 - 3.Link Databank
 - 4.Link up to 5 Machines to the programming board. 
-- 5. Repeat steps 1-3 if you want to manage 5 more machines.
+- 5.Repeat steps 1-3 if you want to manage 5 more machines.
 # First Use
 - 1.Right click on MachineControl programming board > Advanced > Edit LUA parameters
 - 2.Update Schematics for each slot S1-S10ProductID if you want to assign a separate product per machine otherwise just update SAllProductID which will be used on each machine.
