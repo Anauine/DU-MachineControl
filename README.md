@@ -1,4 +1,4 @@
-# DU-MachineControl
+# DU-MachineControl v0.01
 - Dual Universe Machine Control Unit Script still in development.
 - Note: Script to manage up to 10 machine units per screen.
 
