@@ -21,6 +21,9 @@
 - 5.Run the programming board once before use to update the ChannelID to the DB.
 - 6.Setup is complete and you can now update your industry units without having to touch each unit.
 
+#Seach Schematic ID Resources. Thanks "Jericho1060"
+https://du-lua.dev/#/items
+
 # HotKeys:
 - Alt+1 = softstop
 - Alt+2 = hardstop
