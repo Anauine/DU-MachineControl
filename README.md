@@ -21,5 +21,3 @@ Alt+3 = start
 Alt+4 = batch "WIP"
 Alt+5 = maintain "WIP"
 Alt+6 = Update Schematics & start
-
-
