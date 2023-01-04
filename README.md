@@ -13,6 +13,10 @@
 - 3.Link Databank
 - 4.Link up to 5 Machines to the programming board. 
 - 5.Repeat steps 1-4 if you want to manage 5 more machines.
+
+# Screen Instructions:
+- 1.Right click on screen > advanced > Past screen.lua content.
+ 
 # First Use
 - 1.Right click on MachineControl programming board > Advanced > Edit LUA parameters
 - 2.Update Schematics for each slot S1-S10ProductID if you want to assign a separate product per machine otherwise just update SAllProductID which will be used on each machine.
