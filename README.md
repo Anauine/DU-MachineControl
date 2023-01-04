@@ -5,7 +5,7 @@
 # MachineControl Instructions:
 - 1.Paste MachineControl.lua script to a programming board. 
 - 2.Link receiver note:"must be assigned to slot1."
-- 3.Link screen, tile pad, and emitter to the programming board. 
+- 3.Link screen, and emitter to the programming board. 
 
 # MachineUpdateControl Instructions:
 - 1.Paste MachineControl.lua script to a programming board. 
@@ -13,6 +13,9 @@
 - 3.Link Databank
 - 4.Link up to 5 Machines to the programming board. 
 - 5.Repeat steps 1-4 if you want to manage 5 more machines.
+
+#Relay Instructions
+- 1.Link MachineControl PB, MachineUpdateControl PB, and presure tile pad to relay.
 
 # Screen Instructions:
 - 1.Right click on screen > advanced > Past screen.lua content.
