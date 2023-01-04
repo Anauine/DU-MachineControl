@@ -16,10 +16,10 @@
 # First Use
 - 1.Right click on MachineControl programming board > Advanced > Edit LUA parameters
 - 2.Update Schematics for each slot S1-S10ProductID if you want to assign a separate product per machine otherwise just update SAllProductID which will be used on each machine.
-- 3. Toggle Set1ForAll checkbox if you want to use Schematics per assigned slots or just 1 schematic for all.
-- 4. Update SendChannel to any name you want to use specifically for that industry set.
-- 5. Run the programming board once before use to update the ChannelID to the DB.
-- 6. Setup is complete and you can now update your industry units without having to touch each unit.
+- 3.Toggle Set1ForAll checkbox if you want to use Schematics per assigned slots or just 1 schematic for all.
+- 4.Update SendChannel to any name you want to use specifically for that industry set.
+- 5.Run the programming board once before use to update the ChannelID to the DB.
+- 6.Setup is complete and you can now update your industry units without having to touch each unit.
 
 # HotKeys:
 - Alt+1 = softstop
